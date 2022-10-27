@@ -1,0 +1,5 @@
+---
+RAVE_USERNAME: USERNAME
+RAVE_PASSWORD: PASSWORD
+RAVE_API_URL: https://ccredc.mdsol.com/RaveWebServices/studies/000048(UAT)/datasets/regular
+VERSION_NUMBER: 585
